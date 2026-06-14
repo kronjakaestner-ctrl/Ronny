@@ -1,0 +1,6 @@
+print ("Welcome to Ronnys Cave Adventure")
+name = input ("What is your name?")
+print ("Hello name")
+print ("You go over 500 Miles, over Mountains and you saw a lot of littel cities.")
+print ("Now you are standing infront of a cave... you have tow options!")
+answer = input ("Do you want to go in the Cave? (yes/No)")
